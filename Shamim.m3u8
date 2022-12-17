@@ -9,7 +9,6 @@ https://stream.sunplex.live/T-SPORTS/index.m3u8
 #EXTINF:-1 tvg-name="SPORTS 18 HD (FIFA-22)" tvg-logo="https://sunplex.net/iptv/logo/sports-18-hd1-fifa-2022.jpg" group-title="",SPORTS 18 ᴴᴰ (FIFA-22)
 https://stream.sunplex.live/SPORTS-18/index.m3u8
 
-
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/512px-Discovery_Channel_-_Logo_2019.svg.png",Discovery ᴴᴰ
 http://stream.asdd.cc:9191/discovery/tracks-v1a1/mono.m3u8
 
@@ -84,7 +83,6 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1d/Banglavision.svg/385px-Banglavision.svg.png" ,BANGLA VISION
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/playlist.m3u8
-
 
 #EXTINF:-1 tvg-logo="https://cdn.jagonews24.com/media/common/logo.png",JAGONEWS 24
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
