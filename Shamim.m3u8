@@ -1,18 +1,33 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="https://sunplex.net/iptv/logo/gtv-hd-fifa-2022.jpg" group-title="",GAZI TV HD
+#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="https://sunplex.net/iptv/logo/gtv-hd-fifa-2022.jpg" group-title="",GAZI TV ᴴᴰ
 https://stream.sunplex.live/GAZI-TV/index.m3u8
 
-#EXTINF:-1 tvg-name="T SPORTS HD" tvg-logo="https://sunplex.net/iptv/logo/t-sports-hd-fifa-2022.jpg" group-title="",T SPORTS HD
+#EXTINF:-1 tvg-name="T SPORTS HD" tvg-logo="https://sunplex.net/iptv/logo/t-sports-hd-fifa-2022.jpg" group-title="",T SPORTS ᴴᴰ
 https://stream.sunplex.live/T-SPORTS/index.m3u8
 
-#EXTINF:-1 tvg-name="SPORTS 18 HD (FIFA-22)" tvg-logo="https://sunplex.net/iptv/logo/sports-18-hd1-fifa-2022.jpg" group-title="",SPORTS 18 HD (FIFA-22)
+#EXTINF:-1 tvg-name="SPORTS 18 HD (FIFA-22)" tvg-logo="https://sunplex.net/iptv/logo/sports-18-hd1-fifa-2022.jpg" group-title="",SPORTS 18 ᴴᴰ (FIFA-22)
 https://stream.sunplex.live/SPORTS-18/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg", News 24
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/512px-Discovery_Channel_-_Logo_2019.svg.png",Discovery ᴴᴰ
+http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Discovery_Channel_-_Logo_2019.svg/512px-Discovery_Channel_-_Logo_2019.svg.png",Discovery ᴴᴰ
+http://stream.asdd.cc:9191/discovery/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/640px-Natgeologo.svg.png",National Geographic ᴴᴰ
+http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://banner2.cleanpng.com/20180623/qf/kisspng-jalsha-movies-star-jalsha-television-show-star-ind-5b2dddcfb0e485.0005089815297325597246.jpg",Jalsha Movies ᴴᴰ
+http://stream.asdd.cc:9191/Jalsha-movies/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony Max ᴴᴰ
+http://stream.asdd.cc:9191/Sony-max-hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg", News 24 ᴴᴰ
 http://iptvbd.jagobd.com:1931/live-orgin/news24local.stream/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/640px-Rtv_bangladesh.svg.png",RTV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/4e/Rtv_bangladesh.svg/640px-Rtv_bangladesh.svg.png",RTV ᴴᴰ
 http://iptvbd.jagobd.com:1931/live-orgin/rtv-sg.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="https://sunplex.net/iptv/logo/satv.jpg",SATV
@@ -73,7 +88,7 @@ http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/chunks.m3u8
 http://iptvbd.jagobd.com:1931/live-orgin/banglav000.stream/playlist.m3u8
 
 
-#EXTINF:-1 tvg-logo="",JAGONEWS 24 TV Jagobd
+#EXTINF:-1 tvg-logo="https://cdn.jagonews24.com/media/common/logo.png",JAGONEWS 24
 http://iptvbd.jagobd.com:1931/live-orgin/jagonews24.stream/chunks.m3u8
 
 #EXTINF:-1 tvg-logo="http://moviebangla.tv/wp-content/uploads/2022/08/563.png",Movie Bangla TV
@@ -101,50 +116,120 @@ http://iptvbd.jagobd.com:1931/live-orgin/mytv-up-off.stream/chunks.m3u8
 
 
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Sony_Aath_new.png",Sony aath ᴴᴰ
+http://172.16.50.2:8082/Sonyaath/tracks-v1a1/mono.m3u8
 
-
-
-
-
-
-
-
-
-
-
-
-#EXTINF:-1,Gazi Tv ᴴᴰ
-http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,Independent Tv ᴴᴰ
-http://172.16.50.2:8082/Independent-Tv/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,NEWS 24 ᴴᴰ
-http://172.16.50.2:8082/News24bd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Channel 24 ᴴᴰ
-http://172.16.50.2:8082/Channel24/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1,Colors Bangla ᴴᴰ
+#EXTINF:-1 tvg-logo="",Colors Bangla ᴴᴰ
 http://172.16.50.2:8082/colorsbangla/tracks-v1a1/mono.m3u8
 
-
-#EXTINF:-1,Zee Bangla cinema ᴴᴰ
+#EXTINF:-1 tvg-logo="",Zee Bangla cinema ᴴᴰ
 http://172.16.50.2:8082/ZeeBanglacinema/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1,Sony aath ᴴᴰ
-http://172.16.50.2:8082/Sonyaath/tracks-v1a1/mono.m3u8
-
-
-#EXTINF:-1,Star Jalsha ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha ᴴᴰ
 http://172.16.50.2:8082/Star-Jalsha/tracks-v1a1/mono.m3u8
 
 
-#EXTINF:-1,Zee Bangla ᴴᴰ
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg",Zee Bangla ᴴᴰ
 http://172.16.50.2:8082/ZeeBanglaHD/tracks-v1a1/mono.m3u8
 
+
+
+
+*****shamim******
+
+#EXTINF:-1 ,SOMOYTVHD
+http://172.31.1.10:2320/SOMOYTVHD-IRD/video.m3u8
+#EXTINF:-1 ,SATVHD
+http://172.31.1.10:2320/SATVHD-IRD/video.m3u8
+#EXTINF:-1 ,RTVHD
+http://172.31.1.10:2320/RTVHD-IRD/video.m3u8
+#EXTINF:-1 ,NTV
+http://172.31.1.10:2320/NTV-IRD/video.m3u8
+#EXTINF:-1 ,Nexuxtv
+http://172.31.1.10:2320/Nexuxtv-IRD/video.m3u8
+#EXTINF:-1 ,News24
+http://172.31.1.10:2320/News24-IRD/video.m3u8
+#EXTINF:-1 ,Nagorik
+http://172.31.1.10:2320/Nagorik-IRD/video.m3u8
+#EXTINF:-1 ,MYTVHD
+http://172.31.1.10:2320/MYTVHD-IRD/video.m3u8
+#EXTINF:-1 ,MohonaTV
+http://172.31.1.10:2320/MohonaTV-IRD/video.m3u8
+#EXTINF:-1 ,maasranga
+http://172.31.1.10:2320/maasranga-sp/video.m3u8
+#EXTINF:-1 ,JamunaTelevision
+http://172.31.1.10:2320/JamunaTelevision/video.m3u8
+#EXTINF:-1 ,Independent
+http://172.31.1.10:2320/Indepedent-IRD/video.m3u8
+#EXTINF:-1 ,EkusheyTV
+http://172.31.1.10:2320/EkusheyTV/video.m3u8
+#EXTINF:-1 ,Ekattor-HD
+http://172.31.1.10:2320/Ekattor-HD-IRD/video.m3u8
+#EXTINF:-1 ,DeshTV
+http://172.31.1.10:2320/DeshTV-IRD/video.m3u8
+#EXTINF:-1 ,DBC
+http://172.31.1.10:2320/DBC-IRD/video.m3u8
+#EXTINF:-1 ,Channel_I_HD
+http://172.31.1.10:2320/Channel_I_HD-IRD/video.m3u8
+#EXTINF:-1 ,CHANNEL_24
+http://172.31.1.10:2320/CHANNEL_24-IRD/video.m3u8
+#EXTINF:-1 ,BoishakhiTV
+http://172.31.1.10:2320/BoishakhiTV-IRD/video.m3u8
+#EXTINF:-1 ,Bijoytv
+http://172.31.1.10:2320/Bijoytv-IRD/video.m3u8
+#EXTINF:-1 ,BanglaVision
+http://172.31.1.10:2320/BanglaVision-IRD/video.m3u8
+#EXTINF:-1 ,BanglaTV
+http://172.31.1.10:2320/BanglaTV-IRD/video.m3u8
+#EXTINF:-1 ,ATNNews
+http://172.31.1.10:2320/ATNNews-IRD/video.m3u8
+#EXTINF:-1 ,ATNBangla
+http://172.31.1.10:2320/ATNBangla-IRD/video.m3u8
+#EXTINF:-1 ,Asiantv
+http://172.31.1.10:2320/Asiantv-IRD/video.m3u8
+#EXTINF:-1 ,AnandoTv
+http://172.31.1.10:2320/AnandoTv-IRD/video.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*****************
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo="",Independent Tv ᴴᴰ
+http://172.16.50.2:8082/Independent-Tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="",NEWS 24 ᴴᴰ
+http://172.16.50.2:8082/News24bd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="",Channel 24 ᴴᴰ
+http://172.16.50.2:8082/Channel24/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,DBC NEWS ᴴᴰ
 http://172.16.50.2:8082/DBC-NEWS/tracks-v1a1/mono.m3u8
@@ -203,6 +288,8 @@ http://172.16.50.2:8082/MohonaTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1,My Tv ᴴᴰ
 http://172.16.50.2:8082/MyTV/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1,Gazi Tv ᴴᴰ
+http://172.16.50.2:8082/Gazi-Tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1,Nagorik TV ᴴᴰ
 http://172.16.50.2:8082/Nagorik-TV/tracks-v1a1/mono.m3u8
