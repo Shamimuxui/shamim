@@ -3,6 +3,16 @@
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e3/2022_FIFA_World_Cup.svg/401px-2022_FIFA_World_Cup.svg.png", FIFA World Cup 2022 ᴴᴰ
 http://cinemabazar.net/DATA/NAS1/FIFA%20WORLD%20CUP%202022/FIFA%20World%20Cup%202022%20Argentina%20vs%20France%20Final%2018-12-2022/FIFA%20World%20Cup%202022%20-%20Argentina%20vs%20France%20-%20Final%20-%2018-12-2022%20720p%20HDTV%20H264%20AAC.mp4
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/K.G.F_Chapter_2.jpg" ,K.G.F: Chapter 2
+http://cinemabazar.net/DATA/NAS1/Movies/South%20Indian%20Movies%20%28Tamil%2C%20Telugu%2C%20Kannada%20and%20Malayalam%29/HINDI%20DUBBED/2022/K.G.F%20Chapter%202%20%282022%29/K.G.F%20Chapter%202%20%282022%29%201080p%20WEBDL.mp4
+
+#EXTINF:-1 tvg-logo="http://cinemabazar.net/DATA/NAS1/Movies/Bangla%28BD%29/2022/Icon%20Man%20%282022%29/maxresdefault.jpg" ,ICON MAN
+http://cinemabazar.net/DATA/NAS1/Movies/Bangla%28BD%29/2022/Icon%20Man%20%282022%29/Icon%20Man%20%282022%29%20Bengali%201080p.mkv
+
+#EXTINF:-1 tvg-logo=""
+
+
+
 #EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="https://sunplex.net/iptv/logo/gtv-hd-fifa-2022.jpg" group-title="",GAZI TV ᴴᴰ
 https://stream.sunplex.live/GAZI-TV/index.m3u8
 
