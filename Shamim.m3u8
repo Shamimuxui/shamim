@@ -1,5 +1,93 @@
 #EXTM3U
-#EXTINF:-1 ,T Sports Official https://live.tsports.com/live/tsports_live_720/index.m3u8
+#EXTINF:-1 ,T Sports
+https://live.tsports.com/live/tsports_live_720/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Bangla_Talkies.jpeg" ,BANGLA TALKIES
+http://15.1.5.10:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=f1d41b3ba161c597f961e4e3512322c5ef0a278c-7c58fe80e36e913141fac02365314e91-1672089039-1672078239
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" , JALSHA MOVIES
+http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8?token=46cb6037f2d364c4825b7eb6e57e415ded589041-061561133ba9973e08481094a3870127-1672089589-1672078789
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/320px-Natgeologo.svg.png" ,National Geographic
+http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8?token=0ef1d99d0626d3b41ca62127e0642921f812ce55-15cced500fe15b7c8da9265704b2a069-1672090404-1672079604
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/35/Zee_Bangla_New_Logo.jpg" ,ZEE BANGLA
+http://15.1.5.14:8082/zee-bangla/tracks-v1a1/mono.m3u8?token=c3d67392b21f0f5c8739a559653f08ca66089601-591d0637d6e4204afa38b7b10c746cbb-1672090184-1672079384
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" ,Star Jalsha
+http://15.1.5.18:8082/jalsha/tracks-v1a1/mono.m3u8?token=d5ccdb1b0e81efb23912a6cf96ff19727db5b00f-c8384a23425bd0268e45dd10ee7b4450-1672090226-1672079426
+
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" , 9XM
+http://15.1.5.18:8082/9XM/tracks-v1a1/mono.m3u8?token=9bcedbf2935ad09da00142b7d87f2f718a332c37-7d6016c0221a57a43b55da765240caa1-1672090261-1672079461
+
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png" , BTV
+http://15.1.5.22:8082/btv/tracks-v1a1/mono.m3u8?token=f2c448b7ecf543fca9cd40e25689f75171e7c475-e490ba6955cd49d5951a30145bd5f633-1672090492-1672079692
+
+
+#EXTINF:-1 tvg-logo="" ,T Sports
+http://ctgtv.online:8234/t_tv/tracks-v1a1/mono.m3u8?token=pro---sbdt____bd
+
+#EXTINF:-1 tvg-logo="" ,GTV
+http://ctgtv.online:8234/g_tv/tracks-v1a1/mono.m3u8?token=pro---sbdt____bd
+
+
+#EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="https://sunplex.net/iptv/logo/gtv-hd-fifa-2022.jpg" group-title="",GAZI TV ᴴᴰ
+https://stream.sunplex.live/GAZI-TV/index.m3u8
+
+#EXTINF:-1 tvg-name="T SPORTS HD" tvg-logo="https://sunplex.net/iptv/logo/t-sports-hd-fifa-2022.jpg" group-title="",T SPORTS ᴴᴰ
+https://stream.sunplex.live/T-SPORTS/index.m3u8
+
+#EXTINF:-1 tvg-name="SPORTS 18 HD (FIFA-22)" tvg-logo="https://sunplex.net/iptv/logo/sports-18-hd1-fifa-2022.jpg" group-title="",SPORTS 18 ᴴᴰ (FIFA-22)
+https://stream.sunplex.live/SPORTS-18/index.m3u8
+
+
+#EXTINF:-1,Zoom ᴴᴰ
+http://172.16.50.2:8082/Zoom/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery ᴴᴰ
+http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery Science
+http://15.1.5.10:8082/Discovery-Science/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,sangeet bangla
+http://15.1.5.10:8082/sangeet-bangla/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sony Max
+http://15.1.5.14:8082/Sony-Max/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sony MAX 2
+http://15.1.5.22:8082/sony-max2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Sony aath
+http://15.1.5.18:8082/Sonyaath/tracks-v1a1/mono.m3u8
+
+
+
+
+
+
+#EXTINF:-1 tvg-logo=""
+
+
+
+
+#EXTINF:-1 tvg-logo=""
+
+
+#EXTINF:-1 tvg-logo=""
+
+
+
+
+
+
+
+
 #EXTINF:-1 ,JALSHA MOVIES (FHD)
 http://103.143.235.50/jalshamovies/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Star Jalsha (FHD)
