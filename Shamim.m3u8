@@ -17,6 +17,14 @@ http://15.1.5.22:8082/btv/tracks-v1a1/mono.m3u8?token=f2c448b7ecf543fca9cd40e256
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png",Discovery Science
 http://stream.iplex.live:9191/Discovery-Science/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/320px-Natgeologo.svg.png" ,National Geographic
+http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8?token=0ef1d99d0626d3b41ca62127e0642921f812ce55-15cced500fe15b7c8da9265704b2a069-1672090404-1672079604
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/640px-Natgeologo.svg.png",National Geographic ᴴᴰ
+http://stream2.iplex.live:9191/Nat-Geo-HD/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1,Discovery ᴴᴰ
+http://172.16.50.2:8082/Discovery-Tv/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" , JALSHA MOVIES
 http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8?token=46cb6037f2d364c4825b7eb6e57e415ded589041-061561133ba9973e08481094a3870127-1672089589-1672078789
@@ -44,9 +52,6 @@ http://stream.iplex.live:9191/star-gold-hd-2/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema ᴴᴰ
 http://stream.iplex.live:9191/zee-cinema-hd/tracks-v1a1/mono.m3u8
-
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/320px-Natgeologo.svg.png" ,National Geographic
-http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8?token=0ef1d99d0626d3b41ca62127e0642921f812ce55-15cced500fe15b7c8da9265704b2a069-1672090404-1672079604
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/bn/1/16/%E0%A6%9C%E0%A6%BF_%E0%A6%AC%E0%A6%BE%E0%A6%82%E0%A6%B2%E0%A6%BE_%E0%A6%B8%E0%A6%BF%E0%A6%A8%E0%A7%87%E0%A6%AE%E0%A6%BE_%E0%A6%B2%E0%A7%8B%E0%A6%97%E0%A7%8B.jpg",Zee Bangla cinema ᴴᴰ
 http://stream.asdd.cc:9191/zee-bangla-cinema/tracks-v1a1/mono.m3u8
