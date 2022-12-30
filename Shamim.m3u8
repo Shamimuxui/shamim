@@ -6,8 +6,16 @@ https://live.tsports.com/live/tsports_live_720/index.m3u8
 #EXTINF:-1 tvg-name="GAZI TV HD" tvg-logo="https://sunplex.net/iptv/logo/gtv-hd-fifa-2022.jpg" group-title="",GAZI TV ᴴᴰ
 http://stream3.iplex.live:9191/sports-ch-1/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Bangla_Talkies.jpeg" ,BANGLA TALKIES
-http://15.1.5.10:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=f1d41b3ba161c597f961e4e3512322c5ef0a278c-7c58fe80e36e913141fac02365314e91-1672089039-1672078239
+tvg-logo=""
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png" , BTV ᴴᴰ
+http://stream2.iplex.live:9191/btv/tracks-v1a1a2a3a4/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png" , BTV
+http://15.1.5.22:8082/btv/tracks-v1a1/mono.m3u8?token=f2c448b7ecf543fca9cd40e25689f75171e7c475-e490ba6955cd49d5951a30145bd5f633-1672090492-1672079692
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/f8/DiscoveryChannel%28India%29Logo.png",Discovery Science
+http://stream.iplex.live:9191/Discovery-Science/tracks-v1a1/mono.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" , JALSHA MOVIES
@@ -16,7 +24,26 @@ http://15.1.5.14:8082/jalsha-movies/tracks-v1a1/mono.m3u8?token=46cb6037f2d364c4
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d4/Jalsha_Movies.jpg" , JALSHA MOVIES
 http://stream.asdd.cc:9191/Jalsha-movies/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Sangeet_Bangla_%282021%2C_with_slogan%29.jpg",Sangeet Bangla
+http://stream2.iplex.live:9191/sangeet-bangla/tracks-v1a1/mono.m3u8
 
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6a/Bangla_Talkies.jpeg" ,BANGLA TALKIES
+http://15.1.5.10:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=f1d41b3ba161c597f961e4e3512322c5ef0a278c-7c58fe80e36e913141fac02365314e91-1672089039-1672078239
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony MAX ᴴᴰ
+http://stream.iplex.live:9191/Sony-max-hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Dhichaak2.jpg",Dhinchaak 2
+http://stream.iplex.live:9191/Dhinchaak/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/2/20/Star_Gold_new.jpg",Star Gold 
+http://stream.iplex.live:9191/star-gold-hd/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/08/Star_Gold_2.jpg",Star Gold ᴴᴰ 2
+http://stream.iplex.live:9191/star-gold-hd-2/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d5/Zee_Cinema_New_Logo.png",ZEE Cinema ᴴᴰ
+http://stream.iplex.live:9191/zee-cinema-hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/320px-Natgeologo.svg.png" ,National Geographic
 http://15.1.5.14:8082/ngohd/tracks-v1a1/mono.m3u8?token=0ef1d99d0626d3b41ca62127e0642921f812ce55-15cced500fe15b7c8da9265704b2a069-1672090404-1672079604
@@ -36,12 +63,15 @@ http://15.1.5.18:8082/jalsha/tracks-v1a1/mono.m3u8?token=d5ccdb1b0e81efb23912a6c
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg" ,Star Jalsha ᴴᴰ
 http://stream.asdd.cc:9191/star-jalsha/tracks-v1a1/mono.m3u8
 
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" , 9XM
+http://stream.iplex.live:9191/9XM/tracks-v1a1/mono.m3u8
+
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg" , 9XM
 http://15.1.5.18:8082/9XM/tracks-v1a1/mono.m3u8?token=9bcedbf2935ad09da00142b7d87f2f718a332c37-7d6016c0221a57a43b55da765240caa1-1672090261-1672079461
 
 
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f8/Bangladesh_Television_logo.png" , BTV
-http://15.1.5.22:8082/btv/tracks-v1a1/mono.m3u8?token=f2c448b7ecf543fca9cd40e25689f75171e7c475-e490ba6955cd49d5951a30145bd5f633-1672090492-1672079692
+
 
 
 #EXTINF:-1 tvg-logo="" ,T Sports
