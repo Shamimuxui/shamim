@@ -42,6 +42,9 @@ http://stream2.iplex.live:9191/sangeet-bangla/tracks-v1a1/mono.m3u8
 http://15.1.5.10:8082/BANGLA-TALKIES/tracks-v1a1/mono.m3u8?token=f1d41b3ba161c597f961e4e3512322c5ef0a278c-7c58fe80e36e913141fac02365314e91-1672089039-1672078239
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony MAX ᴴᴰ
+http://172.16.50.2:8082/Sony-Max/tracks-v1a1/mono.m3u8?token=1c1358f397aa6b68fc7599ab99bf65930c110dca-c6ca664c2568a3039e78c152cd820ac8-1672763835-1672753035
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b6/Sony_Max_new.png",Sony MAX ᴴᴰ
 http://stream.iplex.live:9191/Sony-max-hd/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4e/Dhichaak2.jpg",Dhinchaak 2
